@@ -11,3 +11,4 @@ int main()
     ao(); //will shut all motors off   
     return 0;
 }
+printf("Hello World!\n");
